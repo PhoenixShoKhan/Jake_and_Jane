@@ -1,5 +1,6 @@
-**3BL – Mission 02: Jake and Jane
-Greybox to Vertical Slice Development**
+**3BL – Mission 02: Jake and Jane**
+
+**Greybox to Vertical Slice Development**
 
 This repository contains the active development build of Jake and Jane, the second story mission from the original AAA game IP, 3BL. The project is currently in the Prototype / Vertical Slice stage of development.
 
@@ -9,6 +10,7 @@ Development began in January 2026, with the vertical slice targeted for completi
 
 
 **Project Goals**
+
 **1. Deliver a Production-Quality Vertical Slice**
 Transform the existing greybox mission into a polished vertical slice that accurately reflects intended gameplay pacing, encounter tension, and technical quality benchmarks.
 
